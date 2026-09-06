@@ -53,8 +53,6 @@ If a question falls outside that scope, the assistant is instructed to politely 
    ```
    This creates/updates `academy.txt`, which the assistant reads from at question-time.
 
-   > ⚠️ **LinkedIn note:** LinkedIn blocks most automated/unauthenticated requests and returns a login page instead of your profile content. The script will warn you if this happens. If so, manually copy the relevant text from your profile into `academy.txt` (under a `===== SOURCE: ... =====` heading) instead of relying on the scraper for that page.
-
 6. **Run the app**
    ```bash
    python app.py
