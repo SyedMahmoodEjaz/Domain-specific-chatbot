@@ -1,0 +1,5 @@
+dashscope==1.27.4
+gradio==5.50.0
+python-dotenv==1.2.3
+requests==2.34.2
+beautifulsoup4==4.15.0
